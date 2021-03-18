@@ -4,7 +4,7 @@ Exercises from taking Udemy online course - Time Series Analysis in Python 2021.
 
 The contents include:
 1. Time Series Features (White Noise, Random Walk, Stationarity, AD Fuller Test, Autocorrelation, ACF, PACF)
-2. Preprocessing Time Series Data
+2. Preprocessing Time Series Data (Data Pipeline, dealing with missing values, as_freq='b' for business day)
 3. Autoregressive model (AR)
 4. Moving Average model (MA)
 5. ARMA model
