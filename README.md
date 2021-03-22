@@ -11,4 +11,5 @@ The contents include:
 6. ARIMA, ARIMAX, SARIMAX models
 7. ARCH
 8. GARCH
-9. Business Case
+9. Auto ARIMA
+10. Business Case (using auto_arima to find the best model)
